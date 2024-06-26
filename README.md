@@ -54,5 +54,11 @@ Please kindly cite this paper in your publications if it helps your research:
 
 [3] Y. Zhang, H. Wang. Diverse embedding expansion network and low-light cross-modality benchmark for visible-infrared person re-identification. In IEEE Computer Vision and Pattern Pecognition (CVPR), pages 2153-2162, 2023.
 
+### Questions
+
+Q1: How can we get the baseline checkpoints (e.g., [CAJ-SYSU](https://drive.google.com/drive/folders/107vztbRqim8-oQAuEBh_9S8oTKdhuV2j?usp=sharing))?
+
+A1: You can train the CAJ to get the base checkpoint ([CAJ-Code]([https://drive.google.com/drive/folders/107vztbRqim8-oQAuEBh_9S8oTKdhuV2j?usp=sharing](https://github.com/mangye16/Cross-Modal-Re-ID-baseline/tree/master/ICCV21_CAJ))).
+
 ### Contact
 If you have any questions, please feel free to contact us. E-mail: liuxiangqiu007@gmail.com
