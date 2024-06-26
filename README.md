@@ -53,3 +53,6 @@ Please kindly cite this paper in your publications if it helps your research:
 [2] D. T. Nguyen, H. G. Hong, K. W. Kim, and K. R. Park. Person recognition system based on a combination of body images from visible light and thermal cameras. Sensors, 17(3):605, 2017.
 
 [3] Y. Zhang, H. Wang. Diverse embedding expansion network and low-light cross-modality benchmark for visible-infrared person re-identification. In IEEE Computer Vision and Pattern Pecognition (CVPR), pages 2153-2162, 2023.
+
+### Contact
+If you have any questions, please feel free to contact us. E-mail: liuxiangqiu007@gmail.com
