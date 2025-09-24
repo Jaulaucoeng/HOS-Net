@@ -33,7 +33,7 @@ ckpt and log can be seen in `./sle_ckpt/`, `./sle_hsl_ckpt/`, and `./sle_hsl_cfl
 
 ### 3. Citation
 
-Please kindly cite this paper in your publications if it helps your research:
+Please kindly cite our papers in your publications if it helps your research:
 ```
 @inproceedings{qiu2024high,
   title={High-Order Structure Based Middle-Feature Learning for Visible-Infrared Person Re-Identification},
@@ -44,7 +44,37 @@ Please kindly cite this paper in your publications if it helps your research:
   pages={4596--4604},
   year={2024}
 }
+
+
+@article{qiu2025hoh,
+  title={HOH-Net: High-Order Hierarchical Middle-Feature Learning Network for Visible-Infrared Person Re-Identification},
+  author={Qiu, Liuxiang and Chen, Si and Xue, Jing-Hao and Wang, Da-Han and Zhu, Shunzhi and Yan, Yan},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2025},
+}
+
+
+@article{chen2025hierarchical,
+  title={Hierarchical Token-Aware Cross-Modality Reconstruction for Visible-Infrared Person Re-Identification},
+  author={Chen, Si and Qiu, Liuxiang and Wang, Da-Han and Zhu, Wentao and Hua, Yang and Yan, Yan},
+  journal={IEEE Transactions on Multimedia},
+  year={2025},
+}
+
+
+@article{chen2023hasi,
+  title={HASI: Hierarchical Attention-Aware Spatio--Temporal Interaction for Video-Based Person Re-Identification},
+  author={Chen, Si and Da, Hui and Wang, Da-Han and Zhang, Xu-Yao and Yan, Yan and Zhu, Shunzhi},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={34},
+  number={6},
+  pages={4973--4988},
+  year={2023},
+  publisher={IEEE}
+}
 ```
+
+
 
 ###  4. References.
 
